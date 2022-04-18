@@ -56,7 +56,6 @@ a {
 
 a:hover {
   padding: 0 .25em;
-  border-radius: .25em;
   background: #120bbc;
   color: #FFFFFF !important; 
 }
