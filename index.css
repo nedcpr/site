@@ -61,6 +61,11 @@ background: #120bbc;
 color: #FFFFFF !important; 
 }
 
+b {
+  text-decoration: none;
+  color: #120bbc;
+}
+
 div.section {
 padding-top: 1em;
 text-align: justify;
