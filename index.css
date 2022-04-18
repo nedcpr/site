@@ -61,7 +61,7 @@ a:hover {
   color: #FFFFFF !important; 
 }
 
-.nohover {
+.disable {
   pointer-events: none;
 }
 
