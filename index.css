@@ -25,6 +25,19 @@ margin-left: 1.5em;
 margin-bottom: 1em;
 }
 
+.social {
+margin-top: 2em;
+}
+
+.social svg {
+width: 18px;
+height: 18px;
+margin-top: 0;
+padding-right: 14px;
+display: block;
+float: left;
+}
+
 .professional {
 margin-top: 2em;
 padding-top: 0em;
