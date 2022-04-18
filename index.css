@@ -50,16 +50,12 @@ strong {
   color: #000000;
 }
 
-a.one {
+a {
   text-decoration: none;
   color: #120bbc;
 }
 
-a.two {
-  text-decoration: none;
-}
-
-a.one:hover {
+a:hover {
   padding: 0 .25em;
   border-radius: .25em;
   background: #120bbc;
