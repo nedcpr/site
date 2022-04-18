@@ -27,6 +27,8 @@ margin-bottom: 1em;
 
 .social {
 margin-top: 2em;
+padding-top: 0em;
+margin-bottom: -.5em;
 }
 
 .professional {
@@ -59,11 +61,6 @@ padding: 0 .25em;
 border-radius: .25em;
 background: #120bbc;
 color: #FFFFFF !important; 
-}
-
-b {
-  text-decoration: none;
-  color: #120bbc;
 }
 
 div.section {
