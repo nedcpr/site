@@ -4,51 +4,50 @@ html {
 }
 
 body {
-margin: 0 auto;
-max-width: 50em;
-font-family: "Helvetica Neue", sans-serif;
-line-height: 1.5;
-padding: 4em 1em;
-color: #555
-
+  margin: 0 auto;
+  max-width: 50em;
+  font-family: "Helvetica Neue", sans-serif;
+  line-height: 1.5;
+  padding: 4em 1em;
+  color: #555
 }
 
 h2 {
-margin-top: 1em;
-padding-top: 1em;
+  margin-top: 1em;
+  padding-top: 1em;
 }
 
 .profile {
-float: right;
-max-width: 38%;
-margin-left: 1.5em;
-margin-bottom: 1em;
+  float: right;
+  max-width: 38%;
+  margin-left: 1.5em;
+  margin-bottom: 1em;
 }
 
 .social {
-margin-top: 2em;
-padding-top: 0em;
-margin-bottom: -.5em;
+  margin-top: 2em;
+  padding-top: 0em;
+  margin-bottom: -.5em;
 }
 
 .professional {
-margin-top: 2em;
-padding-top: 0em;
-margin-bottom: -.5em;
+  margin-top: 2em;
+  padding-top: 0em;
+  margin-bottom: -.5em;
 }
 
 #personal {
-margin-top: 2em;
+  margin-top: 2em;
 }
 
 #ned {
-color: #120bbc;
+  color: #120bbc;
 }
 
 h1,
 h2,
 strong {
-color: #000000;
+  color: #000000;
 }
 
 a {
@@ -57,13 +56,18 @@ a {
 }
 
 a:hover {
-padding: 0 .25em;
-border-radius: .25em;
-background: #120bbc;
-color: #FFFFFF !important; 
+  padding: 0 .25em;
+  border-radius: .25em;
+  background: #120bbc;
+  color: #FFFFFF !important; 
+}
+
+.disabled {
+  pointer-events: none;
+  opacity: 0.3;
 }
 
 div.section {
-padding-top: 1em;
-text-align: justify;
+  padding-top: 1em;
+  text-align: justify;
 }
