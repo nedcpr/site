@@ -64,7 +64,6 @@ a:hover {
 
 .disabled {
   pointer-events: none;
-  opacity: 0.3;
 }
 
 div.section {
