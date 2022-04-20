@@ -19,6 +19,10 @@ h1 {
 
 h1,
 strong {
+  color: #000000;
+}
+
+#title {
   color: #120bbc;
 }
 
