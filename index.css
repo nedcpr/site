@@ -19,7 +19,7 @@ h1 {
 
 h1,
 strong {
-  color: #000000;
+  color: #120bbc;
 }
 
 .profile {
@@ -43,10 +43,6 @@ strong {
 
 #personal {
   margin-top: 2em;
-}
-
-#ned {
-  color: #120bbc;
 }
 
 a {
