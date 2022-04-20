@@ -39,16 +39,6 @@ strong {
   margin-bottom: -.5em;
 }
 
-.professional {
-  margin-top: 2em;
-  padding-top: 0em;
-  margin-bottom: -.5em;
-}
-
-.personal {
-  margin-top: 2em;
-}
-
 .disable {
   pointer-events: none;
 }
