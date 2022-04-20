@@ -26,10 +26,6 @@ strong {
   color: #000000;
 }
 
-#title {
-  color: #120bbc;
-}
-
 .profile {
   float: right;
   max-width: 38%;
@@ -53,6 +49,14 @@ strong {
   margin-top: 2em;
 }
 
+.disable {
+  pointer-events: none;
+}
+
+#title {
+  color: #120bbc;
+}
+
 a {
   color: #120bbc;
 }
@@ -60,8 +64,4 @@ a {
 a:hover {
   background: #120bbc;
   color: #FFFFFF !important; 
-}
-
-.disable {
-  pointer-events: none;
 }
