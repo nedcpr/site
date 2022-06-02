@@ -42,7 +42,8 @@ div.section {
 }
 
 a {
-  color: #120bbc;
+  background: #e6f2ff;
+  color: #FFFFFF !important;
 }
 
 a:hover {
