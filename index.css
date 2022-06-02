@@ -33,10 +33,6 @@ div.section {
   margin-bottom: 1em;
 }
 
-.disable {
-  pointer-events: none;
-}
-
 #title {
   color: #120bbc;
 }
@@ -49,4 +45,14 @@ a {
 a:hover {
   background: #120bbc;
   color: #FFFFFF !important; 
+}
+
+.social a {
+  background: #white !important;
+  color: #white !important;
+}
+
+.social a:hover {
+  background: #white !important;
+  color: #white !important;
 }
