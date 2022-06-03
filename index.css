@@ -37,7 +37,7 @@ div.section {
   color: #0863c4;
 }
 
-a {
+a:link {
   background: #e7f2fe;
   color: #000000;
   text-decoration: none
@@ -47,6 +47,11 @@ a:hover {
   background: #0863c4;
   color: #FFFFFF !important;
   text-decoration: none
+}
+
+.social a:link {
+    background-color: inherit !important;
+    color: inherit !important;
 }
 
 .social a:hover {
