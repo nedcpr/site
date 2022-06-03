@@ -34,25 +34,17 @@ div.section {
 }
 
 #title {
-  color: #120bbc;
+  color: #0863c4;
 }
 
 a {
-  background: #e8e7fe;
+  background: #e7f2fe;
   color: #000000;
+  text-decoration: none
 }
 
 a:hover {
-  background: #120bbc;
-  color: #FFFFFF !important; 
-}
-
-.social a {
-  background: #white !important;
-  color: #white !important;
-}
-
-.social a:hover {
-  background: #white !important;
-  color: #white !important;
+  background: #0863c4;
+  color: #FFFFFF !important;
+  text-decoration: none
 }
