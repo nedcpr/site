@@ -48,3 +48,8 @@ a:hover {
   color: #FFFFFF !important;
   text-decoration: none
 }
+
+.social a:hover {
+    background-color: inherit !important;
+    color: inherit !important;
+}
