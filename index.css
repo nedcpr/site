@@ -1,5 +1,6 @@
 body {
   margin: 1em auto;
+  text-align: justify;
   max-width: 45em;
   font-family: "Helvetica Neue", Helvetica, sans-serif;
   line-height: 1.5;
